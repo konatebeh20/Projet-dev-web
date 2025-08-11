@@ -37,6 +37,7 @@ ionic cap sync
     - Mode hors ligne avec synchronisation
     - Notifications push
 
+---
 
 # Considérations Techniques
 
